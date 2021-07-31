@@ -1,0 +1,71 @@
+.em-nivo-slider-wrapper .nivo-directionNav a svg {
+    margin: 14px 0;
+}
+
+.contact-wrap h3 {
+    font-size: 42px;
+}
+
+.contact-us {
+    background-color: #096BD8;
+    color: white;
+}
+
+.contact-us h3 {
+    font-size: 42px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.info-wrap .dbox {
+    margin-bottom: 25px;
+}
+
+.info-wrap .dbox .icon {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, .1);
+}
+
+.contact-us .text span {
+    font-weight: bold;
+}
+
+.contact-us .text a {
+    color: #052944;
+}
+
+.contact-wrap input[type="submit"]:hover {
+    background-color: #052944;
+}
+
+.icon-list-items li span {
+    font-size: 15px;
+}
+
+.more {
+    display: none;
+}
+
+#services .service_btn1 .myBtn {
+    color: #096BD8;
+    cursor: pointer;
+}
+
+#contactUs {
+    background-color: #F8F8F8;
+}
+
+.invenit_button {
+    margin-top: 0;
+}
+
+.invenit_tab_area .service-item.invenit_service_item img {
+    width: 40%;
+}
+
+.invenit-main-menu .logo a.main_sticky_main_l,
+.invenit-main-menu .prefix .logo a.main_sticky_l {
+    margin-top: 20px;
+}
